@@ -1,0 +1,70 @@
+using System;
+using System.IO;
+using System.Text.Json;
+using System.Text.Json.Serialization;
+using Newtonsoft.Json;
+using System.Collections.Generic;
+
+/*
+ The program takes json data, serializes it (turns it into json data) and saves it 
+ to a json file. After that it's able to grab data from that file
+ */
+
+
+namespace ConsoleApp2
+{  
+    // employee object
+    class Employee {
+        public int Age { get; set; }
+        public String FirstName{ get; set; }
+        public String LastName{ get; set; }
+    }
+
+    class HandleData
+    {
+        public string JsonResult;
+
+        public void SerializeData()
+        {
+            var emp = new Employee
+            {
+                Age = 25,
+                FirstName = "John",
+                LastName = "Travolta"
+            };
+
+           JsonResult = System.Text.Json.JsonSerializer.Serialize(emp);
+        }
+
+        public void ParseData()
+        {   /*
+            dynamic stuff = JsonConvert.DeserializeObject(JsonResult);
+            string name = stuff.FirstName;
+            Console.WriteLine(name);
+            */
+            using (StreamReader r = new StreamReader(@"\\svr-kn-file01\homedrives$\WS330893\Desktop\data.json"))
+            {
+                string json = r.ReadToEnd();
+                var myJsonObject = JsonConvert.DeserializeObject<Employee>(json);
+                Console.WriteLine(myJsonObject.FirstName);
+            }
+        }
+        
+        public void SaveData()
+        {
+            System.IO.File.WriteAllText(@"\\svr-kn-file01\homedrives$\WS330893\Desktop\data.json", JsonResult);
+        }
+        
+    }
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            var handleData = new HandleData();
+            handleData.SerializeData();
+            handleData.SaveData();
+            handleData.ParseData();
+        }
+    }
+}
