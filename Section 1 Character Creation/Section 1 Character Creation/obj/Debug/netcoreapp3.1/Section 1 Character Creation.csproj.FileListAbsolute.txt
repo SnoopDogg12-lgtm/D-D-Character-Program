@@ -1,0 +1,21 @@
+C:\Users\disco\Desktop\School\D&D program\Section 1 Character Creation\Section 1 Character Creation\bin\Debug\netcoreapp3.1\Section 1 Character Creation.exe
+C:\Users\disco\Desktop\School\D&D program\Section 1 Character Creation\Section 1 Character Creation\bin\Debug\netcoreapp3.1\Section 1 Character Creation.deps.json
+C:\Users\disco\Desktop\School\D&D program\Section 1 Character Creation\Section 1 Character Creation\bin\Debug\netcoreapp3.1\Section 1 Character Creation.runtimeconfig.json
+C:\Users\disco\Desktop\School\D&D program\Section 1 Character Creation\Section 1 Character Creation\bin\Debug\netcoreapp3.1\Section 1 Character Creation.runtimeconfig.dev.json
+C:\Users\disco\Desktop\School\D&D program\Section 1 Character Creation\Section 1 Character Creation\bin\Debug\netcoreapp3.1\Section 1 Character Creation.dll
+C:\Users\disco\Desktop\School\D&D program\Section 1 Character Creation\Section 1 Character Creation\bin\Debug\netcoreapp3.1\Section 1 Character Creation.pdb
+C:\Users\disco\Desktop\School\D&D program\Section 1 Character Creation\Section 1 Character Creation\obj\Debug\netcoreapp3.1\Section 1 Character Creation.csproj.AssemblyReference.cache
+C:\Users\disco\Desktop\School\D&D program\Section 1 Character Creation\Section 1 Character Creation\obj\Debug\netcoreapp3.1\Section_1_Character_Creation.Form1.resources
+C:\Users\disco\Desktop\School\D&D program\Section 1 Character Creation\Section 1 Character Creation\obj\Debug\netcoreapp3.1\Section 1 Character Creation.csproj.GenerateResource.cache
+C:\Users\disco\Desktop\School\D&D program\Section 1 Character Creation\Section 1 Character Creation\obj\Debug\netcoreapp3.1\Section 1 Character Creation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disco\Desktop\School\D&D program\Section 1 Character Creation\Section 1 Character Creation\obj\Debug\netcoreapp3.1\Section 1 Character Creation.AssemblyInfoInputs.cache
+C:\Users\disco\Desktop\School\D&D program\Section 1 Character Creation\Section 1 Character Creation\obj\Debug\netcoreapp3.1\Section 1 Character Creation.AssemblyInfo.cs
+C:\Users\disco\Desktop\School\D&D program\Section 1 Character Creation\Section 1 Character Creation\obj\Debug\netcoreapp3.1\Section 1 Character Creation.csproj.CoreCompileInputs.cache
+C:\Users\disco\Desktop\School\D&D program\Section 1 Character Creation\Section 1 Character Creation\obj\Debug\netcoreapp3.1\Section 1 Character Creation.dll
+C:\Users\disco\Desktop\School\D&D program\Section 1 Character Creation\Section 1 Character Creation\obj\Debug\netcoreapp3.1\Section 1 Character Creation.pdb
+C:\Users\disco\Desktop\School\D&D program\Section 1 Character Creation\Section 1 Character Creation\obj\Debug\netcoreapp3.1\Section 1 Character Creation.genruntimeconfig.cache
+C:\Users\disco\Desktop\School\D&D program\Section 1 Character Creation\Section 1 Character Creation\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\disco\Desktop\School\D&D program\Section 1 Character Creation\Section 1 Character Creation\obj\Debug\netcoreapp3.1\Section 1 Character Creation.csproj.CopyComplete
+C:\Users\disco\Desktop\School\D&D program\Section 1 Character Creation\Section 1 Character Creation\bin\Debug\netcoreapp3.1\af-NA\Section 1 Character Creation.resources.dll
+C:\Users\disco\Desktop\School\D&D program\Section 1 Character Creation\Section 1 Character Creation\obj\Debug\netcoreapp3.1\Section_1_Character_Creation.Form1.af-NA.resources
+C:\Users\disco\Desktop\School\D&D program\Section 1 Character Creation\Section 1 Character Creation\obj\Debug\netcoreapp3.1\af-NA\Section 1 Character Creation.resources.dll
